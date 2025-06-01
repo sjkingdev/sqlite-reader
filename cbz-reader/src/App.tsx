@@ -86,7 +86,7 @@ export default function App() {
     <div style={{ display: "flex", height: "100vh" }}>
       <nav
         style={{
-          width: "280px",
+          width: "60%",
           borderRight: "1px solid #ccc",
           padding: "1rem",
           boxSizing: "border-box",
